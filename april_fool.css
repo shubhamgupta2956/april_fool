@@ -1,0 +1,40 @@
+html,body {
+	width:100%;
+	position: relative;
+	background: #FFFFFF;
+}
+
+#comments {
+
+font-family: Righteous;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+margin-top: 50px;
+text-align: center;
+color: #2D2D2D;
+
+}
+
+#com {
+
+font-family: Righteous;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+margin-top: 50px;
+text-align: center;
+color: #2D2D2D;
+
+
+}
+
+#button {
+	
+	height: 20vh;
+  	width: 20vh;
+  	margin-top: 30%;
+  	border-radius: 50%;
+  	font-family: Righteous;
+    background: linear-gradient(126.66deg, #EEE84F -11.37%, rgba(255, 149, 24, 0.4) 150.19%);
+}
